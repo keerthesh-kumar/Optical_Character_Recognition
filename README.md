@@ -8,8 +8,8 @@ On Windows, download installer from below link:
 
 https://github.com/UB-Mannheim/tesseract/wiki
 
-Refer the below link to understand how to install the PyTesseract in your local systems.
-https://www.youtube.com/watch?v=qoFgrvYCQOk
+- Refer the below link to understand how to install the PyTesseract in your local systems.
+  (https://www.youtube.com/watch?v=qoFgrvYCQOk)
 
 - Install python binding for tesseract, pytesseract, using this pip command:
   ```
