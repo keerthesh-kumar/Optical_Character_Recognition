@@ -4,6 +4,7 @@ OCR  or Optical Character Recognition systems transforms a two-dimensional image
 
 In this section we use PyTesseract and Python along with OpenCV and Python Image Library (PIL) to read text from the image to convert it to string.
 
+## Installation:
 - On Windows, download installer from below link:
   (https://github.com/UB-Mannheim/tesseract/wiki)
 
